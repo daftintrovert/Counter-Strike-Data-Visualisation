@@ -1,6 +1,6 @@
 # Counter-Strike-Data-Visualisation
 
-CS:GO with Python 
+CS:GO with Python ..
 
 Hello! I,Vishal Sharma, am the creator of this data-set and just wanted to provide a sample analysis for anyone interested in looking at CS. I look at mainly the pistol round here but many of the techniques can be applied to all types of rounds. There are many ways to analyze this dataset so I hope you can go off and answer interesting questions for yourself :)
 
